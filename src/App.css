@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#form-control{
+  border: none;
+  box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.12);
+}
